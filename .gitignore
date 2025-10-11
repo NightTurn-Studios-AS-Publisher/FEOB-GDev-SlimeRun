@@ -1,0 +1,96 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity Cache and Metadata
+*.pidb
+*.user
+*.booproj
+*.svd
+*.suo
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.tmp
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.db
+*.DS_Store
+
+# Rider / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Crash & error reports
+sysinfo.txt
+crash-reports/
+*.stacktrace
+
+# Unity Cloud / Collaborate
+Assets/AssetStoreTools*
+
+# Addressables and Generated files
+/[Aa]ssets/[Aa]ddressableAssetsData/*
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+/[Aa]ssets/[Gg]enerated*/**
+
+# Auto-generated builds
+/[Bb]uild/
+/[Bb]uilds/
+/[Dd]ist/
+
+# Asset meta files should be kept
+!*.meta
+
+# ================= #
+# OS Specific junk  #
+# ================= #
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ==================== #
+# Optional User Files  #
+# ==================== #
+
+# User-specific settings (keep global clean)
+UserSettings/
+*.packageCache/
+Packages/com.unity.package-manager-do-not-modify*
+
+# Logs and profiles
+*.log
+*.orig
+*.bak
+*.old
+
+# ================== #
+# Unity Collaborate  #
+# ================== #
+.collabignore
