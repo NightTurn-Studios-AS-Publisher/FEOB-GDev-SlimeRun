@@ -94,3 +94,4 @@ Packages/com.unity.package-manager-do-not-modify*
 # Unity Collaborate  #
 # ================== #
 .collabignore
+ProjectSettings/SceneTemplateSettings.json
